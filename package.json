@@ -1,0 +1,27 @@
+{
+  "name": "bamazon_app",
+  "version": "1.0.0",
+  "description": "wannabe amazon simulator app",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpalacpac/Bamazon.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Jonathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpalacpac/Bamazon/issues"
+  },
+  "homepage": "https://github.com/jpalacpac/Bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^3.2.0",
+    "mysql": "^2.13.0"
+  }
+}
