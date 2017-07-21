@@ -1,4 +1,4 @@
 Bamazon App
 
-![example of app](Img/examplrOne.png)
+![example of CustomerView](https://github.com/jpalacpac/Bamazon/blob/master/Img/exampleOne.png "Example One")
 
